@@ -2,7 +2,7 @@
 
 * definition : contains the definition json files for the numpad to be recognized by the usevia.app application.
 * layout : via json layouts for the numpad.
-* zuoya : contain an exe that will flash the lmk21 numpad to its default configuration.
+* zuoya : contain archives with firmware.
 
 Here's some basic instructions for pairing the numpad with via web application :
 1. Connect the numpad
