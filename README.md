@@ -9,7 +9,7 @@ Here's some basic instructions for pairing the numpad with via web application :
 2. Open https://www.usevia.app/
 3. Go to the Settings tab
 4. Enable 'Show Design tab'
-5. In the Design tab, enable 'Use V2 definitions (deprecated)', only if using the v2 definitions, not needed with v3.
+5. In the Design tab, enable 'Use V2 definitions (deprecated)', obviously not needed with V3 definitions.
 6. Now click on 'Load' and browse to the JSON definition file
 7. Connection request should pop-up
 
