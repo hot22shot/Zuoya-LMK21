@@ -14,9 +14,9 @@ Here's some basic instructions for pairing the numpad with via web application :
 7. Connection request should pop-up
 
 > [!TIP]
-> In case saving a layout is not working in the web app : https://github.com/the-via/releases/issues/241  
-> This is due to a missing permission (file system access API) in the browser settings.
+> * In case saving a layout is not working in the web app : https://github.com/the-via/releases/issues/241, this is due to a missing permission (file system access API) in the browser settings.
+> * A desktop version of the VIA application can be found there : https://github.com/cebby2420/via-desktop
 
 > [!WARNING]
-> Zuoya is on the license violator list of QMK (https://docs.qmk.fm/license_violations) it is unlikely we'll have a release of the QMK firmware from them.\
-> Additionnaly the MCU used in the LKM21 numpad to provide tri-connectivity modes may not be officialy supported by QMK.
+> * Zuoya is on the license violator list of QMK (https://docs.qmk.fm/license_violations) it is unlikely we'll have a release of the QMK firmware from them.
+> * Additionnaly the MCU used in the LKM21 numpad to provide tri-connectivity modes may not be officialy supported by QMK which will prevent from getting any support from the QMK community.
